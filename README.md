@@ -1,4 +1,11 @@
-### Hi there 👋
+### ✨ Same as [*Gitee*](https://gitee.com/mark4test/special-block-to-ask?skip_mobile=true) but more frequently checked [*here*](https://github.com/Mark4Test/AskBoard-Premium).
+
+### Limitations:
+
+- No private session.
+- Will reply ASAP.
+
+> Timestamp: Saturday, 11 March, 2023
 
 <!--
 **Mark4Test/Mark4Test** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
