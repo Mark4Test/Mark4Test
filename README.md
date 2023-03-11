@@ -1,10 +1,16 @@
 # ✨ Same as [*Gitee*](https://gitee.com/mark4test/special-block-to-ask?skip_mobile=true) but more frequently checked [*here*](https://github.com/Mark4Test/AskBoard-Premium).
 
-### Limitations:
+### ⚠️ Limitations:
 
 - No private session.
 - Will reply ASAP.
 
+### 🔔 Notification Stats:
+ - [x] Issues
+ - [x] Discussions
+ - [x] Pull requests
+ - [ ] Releases
+ - [ ] Other alerts
 ---
 ###### Previous Login date:
 > Timestamp: Saturday, 11 March, 2023
